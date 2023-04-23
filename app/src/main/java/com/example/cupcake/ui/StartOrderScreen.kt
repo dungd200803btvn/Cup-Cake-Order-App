@@ -1,6 +1,5 @@
 
 package com.example.cupcake.ui
-
 import androidx.annotation.StringRes
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
